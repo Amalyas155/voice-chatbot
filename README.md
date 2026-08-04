@@ -63,6 +63,12 @@ https://amalyasser.kesug.com/
 ## 📸 Preview
 
 Example:
+
+
+---
+
+https://github.com/user-attachments/assets/64eb212f-b1e5-4f1f-97b2-6644ba0cd8f4
+
 ---
 
 <img width="902" height="605" alt="Screenshot 2026-08-05 013604" src="https://github.com/user-attachments/assets/177944dd-3276-46ef-a64f-919dc28cfcce" />
